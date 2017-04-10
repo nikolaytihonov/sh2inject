@@ -1,5 +1,5 @@
 # sh2load
-Linux Shared Library Injection Tool (inject *.so files into process). It's not LD_PRELOAD dirty trick, IN RUN-TIME!
+Linux Shared Library Injection Tool (inject *.so files into process). It's not LD_PRELOAD dirty trick. This is IN RUN-TIME!
 
 Usage: ./sh2load [pid] [path_to_lib]
 (You will check architecture of process and library!)
